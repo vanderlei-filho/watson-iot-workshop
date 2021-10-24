@@ -18,5 +18,5 @@
 4. Execute o script:
 
 ```bash
-python ibm-watson-iot-demo.py -c mydevice.cfg 
+python ibm-watson-iot-demo.py -v -c mydevice.cfg 
 ```
